@@ -31,7 +31,7 @@ awx_secret_key=awxsecret
 # awx_kubernetes_namespace=awx
 
 # Common Docker parameters
-postgres_data_dir=/tmp/pgdocker
+postgres_data_dir=/root/pgdocker
 host_port=80
 
 # Required for Openshift when building the image on your own
